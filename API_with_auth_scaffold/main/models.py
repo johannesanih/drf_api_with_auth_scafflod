@@ -1,7 +1,6 @@
 from django.db import models
 from users.models import CustomUser
 
-"""
 class Example(models.Model):
     title = models.CharField(max_length=200)
     description = models.TextField(blank=True)
@@ -12,4 +11,3 @@ class Example(models.Model):
     def __str__(self):
         return self.title
 
-"""
