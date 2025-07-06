@@ -1,0 +1,6 @@
+venv/
+*.db
+*.tmp
+.env
+__init__/
+__init__.py
